@@ -17,13 +17,13 @@ One of my proudest projects is the [Liberty Framework](https://github.com/fblett
 
 ### Key Features of Liberty
 
-✅ Enable No-Code/Low-Code Development – Build applications visually without extensive programming.
-✅ Provide Enterprise-Grade Scalability – Works for both startups and large-scale businesses.
-✅ Integrate AI and Automation – Use OpenAI-powered AI and workflow automation with Airflow.
-✅ Offer Flexibility – Customize, extend, and integrate with your existing systems.
-✅ Simplify Deployment – Containerized with Docker for easy deployment anywhere.
-✅ Monitoring – Integrated with Sentry and Grafana to monitor errors  and performance
-✅ Components – Custom components written in React to remove any external dependencies like MUI or AG-Grid
+- ✅ Enable No-Code/Low-Code Development – Build applications visually without extensive programming.
+- ✅ Provide Enterprise-Grade Scalability – Works for both startups and large-scale businesses.
+- ✅ Integrate AI and Automation – Use OpenAI-powered AI and workflow automation with Airflow.
+- ✅ Offer Flexibility – Customize, extend, and integrate with your existing systems.
+- ✅ Simplify Deployment – Containerized with Docker for easy deployment anywhere.
+- ✅ Monitoring – Integrated with Sentry and Grafana to monitor errors  and performance
+- ✅ Components – Custom components written in React to remove any external dependencies like MUI or AG-Grid
 
 To learn more about Liberty, visit the [Liberty Framework repository](https://github.com/fblettner/liberty).
 
